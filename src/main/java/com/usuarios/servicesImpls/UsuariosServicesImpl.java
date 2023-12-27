@@ -19,7 +19,7 @@ public class UsuariosServicesImpl implements IUsuarioService{
 
 	@Override
 	public List<UsuarioDtoList> listarUsuarios() {
-		// TODO Auto-generated method stub
+		// Aqui va la logica para desarrollar y conectarnos a la Db para traer todos los usuarios
 		return null;
 	}
 
