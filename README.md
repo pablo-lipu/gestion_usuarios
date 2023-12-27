@@ -1,6 +1,6 @@
 Requiere 
       -JDK 8
-      -Spring boot 2.7.17
+      -Spring boot 2.7.10
       -maven 3.5.2
 
 Descripcion de Mcsvc:
